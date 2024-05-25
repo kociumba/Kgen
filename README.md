@@ -1,5 +1,5 @@
 # Kgen
- 
+
 Generate noise with a twist 🤨.
 
 This is a noise image generator that aims to create random patterns.
@@ -16,6 +16,7 @@ This is a noise image generator that aims to create random patterns.
 
 ## Demo
 
-![Demo1 Image](demo/demo1.png)
-
-![Demo2 Image](demo/demo2.png)
+| Examples | `Kgen -x 100 -y 100` |
+|:------------------------------:|:------------------------------:|
+| ![Demo1 Image](demo/demo1.png) | ![Demo2 Image](demo/demo2.png) |
+| ![Demo3 Image](demo/demo3.png) | ![Demo4 Image](demo/demo4.png) |
