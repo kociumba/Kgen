@@ -16,7 +16,9 @@ This is a noise image generator that aims to create random patterns.
 
 ## Demo
 
-| Examples | `Kgen -x 100 -y 100` |
-|:------------------------------:|:------------------------------:|
-| ![Demo1 Image](demo/demo1.png) | ![Demo2 Image](demo/demo2.png) |
-| ![Demo3 Image](demo/demo3.png) | ![Demo4 Image](demo/demo4.png) |
+| Examples `Kgen -x 100 -y 100`                                | Examples `Kgen -x 1000 -y 1000`                              |
+|:------------------------------------------------------------:|:------------------------------------------------------------:|
+| <img src="demo/demo1.png" alt="Demo1 Image" width="250"/>    | <img src="demo/demo1big.png" alt="Demo1big Image" width="500"/> |
+| <img src="demo/demo2.png" alt="Demo2 Image" width="250"/>    | <img src="demo/demo2big.png" alt="Demo2big Image" width="500"/> |
+| <img src="demo/demo3.png" alt="Demo3 Image" width="250"/>    | <img src="demo/demo3big.png" alt="Demo3big Image" width="500"/> |
+| <img src="demo/demo4.png" alt="Demo4 Image" width="250"/>    | <img src="demo/demo4big.png" alt="Demo4big Image" width="500"/> |
