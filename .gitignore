@@ -24,3 +24,6 @@ generated.png.sorted.png
 
 # Go workspace file
 go.work
+
+# Test and dev files
+k-9.yml
